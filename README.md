@@ -1,2 +1,5 @@
 # DigitalClock
-A responsive digital clock with current date.
+A responsive digital clock with current date.<br>
+
+<h1>License</h1>
+This project is licensed under the MIT License. Feel free to modify and distribute the codebase for your own purposes. However, please be sure to include the original license file and attribute the author appropriately.
